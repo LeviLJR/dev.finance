@@ -7,7 +7,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/LeviLJR/dev.finance.svg">
 
-  <a href="https://github.com/farreltobias/financial-api/commits/master">
+  <a href="https://github.com/LeviLJR/dev.finance/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeviLJR/dev.finance.svg">
   </a>
 
@@ -18,7 +18,6 @@
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#features">New Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-exemple">Exemple</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thinking-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -43,5 +42,5 @@ Here's a live demo of the application working
  
 This project is under the MIT license. See the [LICENSE](https://github.com/LeviLJR/dev.finance/blob/main/LICENSE) for more information.
 
-Made with :blue_heart: by Levi Liberman Júnior [Get it touch!](https://www.linkedin.com/in/leviljr/)
+Made with :blue_heart: by Levi Liberman Júnior [Get in touch!](https://www.linkedin.com/in/leviljr/)
 
